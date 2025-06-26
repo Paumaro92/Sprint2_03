@@ -1,0 +1,18 @@
+{
+    "_id": {
+        "$oid": "666cfc1e8b9b1f0001a1a1a1"
+    },
+    "nom": "òptica Mundial",
+    "adreça": {
+        "carrer": "Gran Via",
+        "número": "123",
+        "pis": "3",
+        "porta": "2B",
+        "ciutat": "Barcelona",
+        "codi_postal": "08010",
+        "país": "Espanya"
+    },
+    "telèfon": "934567890",
+    "fax": "934567891",
+    "NIF": "B12345678"
+}

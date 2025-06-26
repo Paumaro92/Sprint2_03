@@ -1,0 +1,15 @@
+{
+    "_id": {
+        "$oid": "666cfc1e8b9b1f0001a1a1a2"
+    },
+    "nom": "Anna Garcia",
+    "adreça": "Carrer Major, 45, 2n 1a, Girona, 17001",
+    "telèfon": "678123456",
+    "email": "anna@gmail.com",
+    "data_registre": {
+        "$date": "2025-06-01T00:00:00Z"
+    },
+    "recomanat_per": {
+        "$oid": "666cfc1e8b9b1f0001a1a1a6"
+    }
+}
