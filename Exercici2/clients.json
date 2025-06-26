@@ -1,0 +1,35 @@
+[
+    {
+        "_id": { "$oid": "667ac1a1f1b2c3d4e5f6a1b2" },
+        "nom": "Anna Martí Soler",
+        "adreça": "Carrer de Sants, 12, 3r 1a, 08014 Barcelona",
+        "telefon": "612345678",
+        "email": "anna.marti@email.com",
+        "data_registre": {
+            "$data": "2025-02-15T10:30:00Z"
+        },
+        "referred_by": null
+    },
+    {
+        "_id": { "$oid": "667ac1b2f1b2c3d4e5f6c3d4" },
+        "nom": "Pau Vidal Cases",
+        "adreça": "Avinguda Diagonal, 450, Entl. 2a, 08006 Barcelona",
+        "telefon": "698765432",
+        "email": "pau.vidal@email.com",
+        "data_registre": {
+            "$data": "2025-03-20T11:00:00Z"
+        },
+        "referred_by": "Anna Martí Soler"
+    },
+    {
+        "_id": { "$oid": "667ac1c3f1b2c3d4e5f6e5f6" },
+        "nom": "Laura Giménez Roca",
+        "adreça": "Passeig de Gràcia, 92, 1r, 08008 Barcelona",
+        "telefon": "665544332",
+        "email": "laura.gimenez@email.com",
+        "data_registre": {
+            "$data": "2025-05-10T17:45:00Z"
+        },
+        "referred_by": "Pau Vidal Cases"
+    }
+]

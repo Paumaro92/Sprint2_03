@@ -1,0 +1,17 @@
+[
+    {
+        "_id": { "$oid": "667ac2d2f1b2c3d4e5f6a1b2" },
+        "marca": "Carrera",
+        "prescripcio": {
+            "ull_dret": -2.25,
+            "ull_esquerre": -2.50
+        },
+        "tipus": "Pasta",
+        "color": "Havana",
+        "lens": "Marró degradat",
+        "preu": 129.99,
+        "supplier_id": {
+            "$oid": "6851355c71e81550b650eb6c"
+        }
+    }
+]
